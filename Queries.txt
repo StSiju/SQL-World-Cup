@@ -1,0 +1,17 @@
+1.	How many Wolrd cup games have been held?
+2.	List all Wolrd cup games held so far
+3.	How many countries have participated in World cup since its Inception
+4.	How many countries participated in each Wolrd cup ?
+5.	Number of Goal Per Country
+6.	How many goals scored by each teams in each tournament
+7.	Match with the highest attendance in each tournament
+8.	Stadium with Highest Average Attendance
+9.	Show the years that had the highest and lowest no of countries participating in the tournament
+10.	Which nation(s) has participated in all of the olympic games
+11.	Which country has won the tournament the most
+12.	What is the ratio of the tournaments with the highest and lowest attendances
+13.	Fetch the top 5 players who have participated in most tounaments
+14.	Which player has won the tournament the most
+15.	List the number of Quater finals, Semi Finals, Third place and Finals that each country has played in.
+16.	Identify which countries have played in most Quater finals, Semi Finals and Finals
+17.	Which countries have never played in the round of 16?
