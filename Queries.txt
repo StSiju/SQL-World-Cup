@@ -11,7 +11,6 @@
 11.	Which country has won the tournament the most
 12.	What is the ratio of the tournaments with the highest and lowest attendances
 13.	Fetch the top 5 players who have participated in most tounaments
-14.	Which player has won the tournament the most
-15.	List the number of Quater finals, Semi Finals, Third place and Finals that each country has played in.
-16.	Identify which countries have played in most Quater finals, Semi Finals and Finals
-17.	Which countries have never played in the round of 16?
+14.	List the number of Quater finals, Semi Finals, Third place and Finals that each country has played in.
+15.	Identify which countries have played in most Quater finals, Semi Finals and Finals
+16.	Which countries have never played in the round of 16?
